@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="Clock">
+        <attr name="circle_color" format="color"/>
+        <attr name="center_color" format="color"/>
+        <attr name="seconds_hand_color" format="color"/>
+        <attr name="minutes_hand_color" format="color"/>
+        <attr name="hours_hand_color" format="color"/>
+        <attr name="length_seconds_hand" format="integer"/>
+        <attr name="length_minutes_hand" format="integer"/>
+        <attr name="length_hours_hand" format="integer"/>
+        <attr name="padding" format="dimension"/>
+    </declare-styleable>
+
+</resources>
